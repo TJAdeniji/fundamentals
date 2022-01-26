@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "cafe business logic",
-        "BankAccount"
+        "BankAccount",
+        "ZooKeeper"
     ]
 }

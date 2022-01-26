@@ -4,7 +4,6 @@ public class TestBankAccount{
 
     public static void main(String[] args) {
         BankAccount account1 = new BankAccount();
-        //Scanner account =  new Scanner(System.in);
 
         System.out.println("Here's your balance: " + account1.getCheckingBalance() + "\n");
         account1.deposit(150.00, "checking");
